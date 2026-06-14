@@ -1,8 +1,8 @@
 ## CERID
-Clarify (Requirements)
-Entities
-Responsibilities
-Interaction
+Clarify (Requirements) |
+Entities | 
+Responsibilities | 
+Interaction | 
 Durability (Easy to corporate changes) : Future proof 
 
 
