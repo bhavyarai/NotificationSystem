@@ -1,0 +1,14 @@
+Problem statement
+-> Design a notification system
+
+CERID 
+Clarify
+Entities
+Responsibilities
+Interactions
+Durability
+
+Bonus:
+Think about thread safety
+
+Startegy pattern : Same task different business logic
